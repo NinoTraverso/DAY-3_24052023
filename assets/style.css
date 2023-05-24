@@ -1,0 +1,108 @@
+@import url("https://fonts.googleapis.com/css2?family=Playfair:wght@400;700&display=swap");
+
+body {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  font-family: "Playfair", serif;
+}
+
+.incentive {
+  color: #ffd877;
+  background-color: #fcfaf1;
+  padding: 0.5em;
+  border-top-style: solid;
+  border-top-width: 0.1em;
+}
+
+.incentive p {
+  color: #115957;
+  font-size: 20px;
+}
+
+main > h1 {
+  font-size: 50px;
+  font-weight: 700;
+}
+
+.intro {
+  margin-left: 25em;
+  text-align: start;
+  font-size: 16px;
+}
+
+figcaption {
+  font-weight: bold;
+  color: #9a9a9b;
+}
+
+.feature {
+  border-left-style: solid;
+  border-left-width: 0.1em;
+  padding-left: 1em;
+  border-color: #ffd877;
+  margin-left: 25em;
+  text-align: start;
+  font-size: 16px;
+  color: #b64815;
+  font-weight: bold;
+}
+
+.feature a {
+  color: #107676;
+}
+
+.ingredients {
+  font-weight: 700;
+  font-size: 35px;
+  margin-left: 11.5em;
+  text-align: start;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  padding-bottom: 0.5em;
+  border-color: #c4f3f2;
+}
+
+.focaccia {
+  margin-left: 25em;
+  text-align: start;
+  font-size: 16px;
+}
+
+.toppings {
+  margin-left: 25em;
+  text-align: start;
+  font-size: 16px;
+}
+
+.method {
+  font-weight: 700;
+  font-size: 35px;
+  margin-left: 11.5em;
+  text-align: start;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  padding-bottom: 0.5em;
+  border-color: #c4f3f2;
+}
+
+.method-list {
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.method-list p {
+  font-weight: lighter;
+  font-size: 16px;
+}
+
+footer {
+  font-size: 16px;
+  margin-left: 25em;
+  text-align: start;
+}
+
+footer a {
+  color: #107676;
+}
